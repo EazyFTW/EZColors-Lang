@@ -28,7 +28,6 @@ GUI_CUSTOM_COLOR_EXAMPLE: '这就是你目前聊天的样子'
 RESET_CUSTOM_COLORS_LIST: '&7点击以恢复默认'
 GUI_FINISH_CUSTOM_COLOR: '%prefix% &7成功创建自定义彩字! 打出来试试吧~'
 
-
 #COLORS
 COLOR: '颜色'
 COLOR_DARK_RED: '蕾米红'
