@@ -28,7 +28,6 @@ GUI_CUSTOM_COLOR_EXAMPLE: 'This is how the custom colour will look in chat.'
 RESET_CUSTOM_COLORS_LIST: '&7Click to reset the custom colour.'
 GUI_FINISH_CUSTOM_COLOR: '%prefix% &7Successfully created your Custom Chat Colour! Type in chat to see it!'
 
-
 #COLORS
 COLOR: 'Colour'
 COLOR_DARK_RED: 'Dark Red'
