@@ -28,7 +28,6 @@ GUI_CUSTOM_COLOR_EXAMPLE: 'Questa è una anteprima di come verra'' mostrato il c
 RESET_CUSTOM_COLORS_LIST: '&7Clicca per resettare il colore personalizzato.'
 GUI_FINISH_CUSTOM_COLOR: '%prefix% &7Creato con successo il tuo Colore Personalizzato! Scrivi in chat per vederlo!'
 
-
 #COLORS
 COLOR: 'Colore'
 COLOR_DARK_RED: 'Rosso Scuro'
