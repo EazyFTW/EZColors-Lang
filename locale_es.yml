@@ -28,7 +28,6 @@ GUI_CUSTOM_COLOR_EXAMPLE: 'Esto es como se va ver el color personalizado en el c
 RESET_CUSTOM_COLORS_LIST: '&7Haga clic para restaurar el color personalizado.'
 GUI_FINISH_CUSTOM_COLOR: '%prefix% Se creo tu color de chat personalizado! Escribe en chat para verlo!'
 
-
 #COLORS
 COLOR: 'Color'
 COLOR_DARK_RED: 'Rojo oscuro'
