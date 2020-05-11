@@ -22,11 +22,13 @@ GUI_COLOR_FINISH_LORE: '&7Klik hier om de gekozen kleur te bevestigen!||||{Custo
 COLOR_ADDED_MSG: '%prefix% &7De gekozen kleur {Color} is succesvoltegevoegt aan de gekozen &7Kleur!'
 GUI_ADD_CUSTOM_COLOR:  '&7Klik om de kleur {Color} toe te voegen aan de zelfgemaakte kleur Kleur&7!'
 GUI_HAS_ACCESS_CUSTOM: '&aKlik om toe te voegen!'
-#You can add || to add new lines!
+#Je kan deze strepen || toevoegen voor de nieuw regel!
 GUI_CUSTOM_COLOR_LORE: 'Klik hier om de zelfgemaakte kleur te verwijderen!'
 GUI_CUSTOM_COLOR_EXAMPLE: 'Zo ziet het er uit in de chat met de zelfgemaakte kleur.'
 RESET_CUSTOM_COLORS_LIST: '&7Klik om de zelfgemaakte kleur te reseten.'
 GUI_FINISH_CUSTOM_COLOR: '%prefix% &7De zelfgemaakte kleur is succesvol gemaakt. Type in de chat om het te zien!'
+GUI_COLOR_BACK: 'Terug'
+GUI_COLOR_BACK_LORE: 'Klik om terug te gaan.'
 
 #COLORS
 COLOR: 'Kleur'
@@ -48,8 +50,6 @@ COLOR_AQUA: 'Licht blauw'
 COLOR_WHITE: 'Wit'
 COLOR_RAINBOW: 'Regenboog'
 COLOR_RESET: 'Reset'
-
-COLOR_CHAT_EXAMPLE: "Dit is een voorbeeld van hoe chat eruit zou zien!"
 
 COLOR_RESET_NO_PERM: '%prefix% &cJe kan niet de kleur reseten.'
 
