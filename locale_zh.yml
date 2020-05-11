@@ -27,6 +27,8 @@ GUI_CUSTOM_COLOR_LORE: '你可以从你的自定义彩字移除这个颜色'
 GUI_CUSTOM_COLOR_EXAMPLE: '这就是你目前聊天的样子'
 RESET_CUSTOM_COLORS_LIST: '&7点击以恢复默认'
 GUI_FINISH_CUSTOM_COLOR: '%prefix% &7成功创建自定义彩字! 打出来试试吧~'
+GUI_COLOR_BACK: '背部'
+GUI_COLOR_BACK_LORE: '单击返回。'
 
 #COLORS
 COLOR: '颜色'
@@ -48,8 +50,6 @@ COLOR_AQUA: '智慧（⑨）的颜色'
 COLOR_WHITE: '纯洁白'
 COLOR_RAINBOW: '光污染！'
 COLOR_RESET: '重置'
-
-COLOR_CHAT_EXAMPLE: "这是聊天样子的一个例子！"
 
 COLOR_RESET_NO_PERM: '%prefix% &c你不能重置你的颜色.'
 
