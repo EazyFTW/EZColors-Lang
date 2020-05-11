@@ -49,6 +49,8 @@ COLOR_WHITE: 'Weiß'
 COLOR_RAINBOW: 'Regenbogen'
 COLOR_RESET: 'Zurücksetzen'
 
+COLOR_CHAT_EXAMPLE: "Dies ist ein Beispiel dafür, wie ein Chat aussehen würde!"
+
 COLOR_RESET_NO_PERM: '%prefix% &cDu kannst deine Farbe nicht zurücksetzen.'
 
 COLOR_RAINBOW_SELECT_LEFT: '&7Linksklick um deine Chatfarbe auf Regenbogen zu setzen!'
