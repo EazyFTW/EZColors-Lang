@@ -27,6 +27,8 @@ GUI_CUSTOM_COLOR_LORE: 'Klikni da izbrises ovu boju iz prilagođenih boja!'
 GUI_CUSTOM_COLOR_EXAMPLE: 'Ovako će kustom boja da izgleda u četu.'
 RESET_CUSTOM_COLORS_LIST: '&7Klikni da resetujes prilagođenu boju.'
 GUI_FINISH_CUSTOM_COLOR: '%prefix% &7Uspesno smo kreirali tvoju prilagođenu Boju Četa! Napiši nešto u četu da ju vidiš!'
+GUI_COLOR_BACK: 'Nazad'
+GUI_COLOR_BACK_LORE: 'Klikni da ideš nazad.'
 
 #COLORS
 COLOR: 'Boja'
@@ -48,8 +50,6 @@ COLOR_AQUA: 'Svetlo Plava'
 COLOR_WHITE: 'Bela'
 COLOR_RAINBOW: 'Boja Duge'
 COLOR_RESET: 'Resetuj'
-
-COLOR_CHAT_EXAMPLE: "Ovo je primer kako će čet da izgleda!"
 
 COLOR_RESET_NO_PERM: '%prefix% &cTi ne mozes da resetujes svoju boju.'
 
