@@ -1,0 +1,70 @@
+Name: 'Serbian'
+
+#MAIN GUI
+GUI_COLOR_TITLE: 'Boja četa'
+GUI_SET_COLOR: '&7Klikni da podesis svoju Boju Četa u {Color}&7!'
+GUI_SET_COLOR_DEFAULT: '&7Klikni da podesis Boju Četa u podrazumevanu!'
+GUI_SET_COLOR_DEFAULT_HAS_ACCESS: '&aKlikni da promenis u podrazumevanu!'
+GUI_SET_COLOR_DEFAULT_NO_ACCESS: '&cNemas dozvolu da promenis boju u podrazumevanu!'
+GUI_HAS_ACCESS: '&aKlikni da Koristis!'
+GUI_NO_ACCESS: '&cNemas dozvolu da koristis ovu Boju!'
+GUI_SELECTED_COLOR_TITLE: '&e&lIzabrana Boja'
+GUI_SELECTED_COLOR_LORE: '&7Tvoja izabrana boje je:||||{SelectedColor}'
+
+#CUSTOM COLOR GUI
+GUI_COLOR_CUSTOM_TITLE: 'Kreator Boje Četa'
+GUI_CUSTOM_COLOR_ITEM_TITLE: '&e&lPrilagođena boja'
+GUI_CUSTOM_COLOR_ITEM_LORE_HAS_ACCESS: '&7Klikni ovde da napravis prilagođenu boju.'
+GUI_CUSTOM_COLOR_ITEM_LORE_NO_ACCESS: '&cIzvini, ali ti ne mozes da napravis prilagođenu boju.'
+GUI_NO_ACCESS_CUSTOM: '&cTi nemas dozvolu za pravljenje prilagođene boje!'
+GUI_COLOR_FINISH: 'Završi'
+GUI_COLOR_FINISH_LORE: '&7Klikni da završis kreiranje prilagođene boje!||||{CustomColor}'
+COLOR_ADDED_MSG: '%prefix% &7Uspesno smo dodali {Color} &7Boju u prilagođene boje!'
+GUI_ADD_CUSTOM_COLOR:  '&7Klikni da dodas {Color} u prilagođene boje&7!'
+GUI_HAS_ACCESS_CUSTOM: '&aKlikni da dodas!'
+#You can add || to add new lines!
+GUI_CUSTOM_COLOR_LORE: 'Klikni da izbrises ovu boju iz prilagođenih boja!'
+GUI_CUSTOM_COLOR_EXAMPLE: 'Ovako će kustom boja da izgleda u četu.'
+RESET_CUSTOM_COLORS_LIST: '&7Klikni da resetujes prilagođenu boju.'
+GUI_FINISH_CUSTOM_COLOR: '%prefix% &7Uspesno smo kreirali tvoju prilagođenu Boju Četa! Napiši nešto u četu da ju vidiš!'
+
+#COLORS
+COLOR: 'Boja'
+COLOR_DARK_RED: 'Tamno Crvena'
+COLOR_GREEN: 'Zelena'
+COLOR_BLUE: 'Plava'
+COLOR_CYAN: 'Zelenkasto Plava'
+COLOR_PURPLE: 'Ljubičasta'
+COLOR_GOLD: 'Zlatna'
+COLOR_DARK_GRAY: 'Tamno Siva'
+COLOR_RED: 'Crvena'
+COLOR_LIME: 'Svetlo Zelena'
+COLOR_LIGHT_BLUE: 'Light Blue'
+COLOR_BLACK: 'Crna'
+COLOR_PINK: 'Roza'
+COLOR_YELLOW: 'Žuta'
+COLOR_GRAY: 'Siva'
+COLOR_AQUA: 'Svetlo Plava'
+COLOR_WHITE: 'Bela'
+COLOR_RAINBOW: 'Boja Duge'
+COLOR_RESET: 'Resetuj'
+
+COLOR_CHAT_EXAMPLE: "Ovo je primer kako će čet da izgleda!"
+
+COLOR_RESET_NO_PERM: '%prefix% &cTi ne mozes da resetujes svoju boju.'
+
+COLOR_RAINBOW_SELECT_LEFT: '&7Levi Klik da podesis svoju Boju u Dugine boje!'
+COLOR_RAINBOW_SELECT_RIGHT: '&7Desni Klik da podesis svoju Boju u Dugine boje 2!'
+
+NO_COLOR_SET: '&cNijedna boja nije podešena'
+COLOR_SELECTED: '%prefix% &7Uspesno selektovana {Color} &7Boja!'
+COLOR_SELECTED_DEFAULT_SUCCESSFUL: '%prefix% &7Uspesno vraćena boja u podrazumevanu.'
+COLOR_SELECTED_DEFAULT_NO_COLOR: '%prefix% &cTi nemas selektovanu boju četa.'
+
+#LANGUAGE GUI
+GUI_LANGUAGE_TITLE: 'Jezici'
+GUI_LANGUAGE_LANGUAGE_ENABLED_DESC: 'Ovaj jezik je trenutno izabran.'
+GUI_LANGUAGE_LANGUAGE_DISABLED_DESC: 'Klikni da izaberes {Language} kao jezis plugina.'
+GUI_LANGUAGE_LANGUAGE_REFRESH_TITLE: 'Osveži jezike'
+GUI_LANGUAGE_LANGUAGE_REFRESH_DESC: 'Klikni da osvežis sve jezike.||Ovo će potražiti i nove jezike.'
+GUI_LANGUAGE_LANGUAGE_REFRESH_MSG: '%prefix% &aJezici osveženi.'
