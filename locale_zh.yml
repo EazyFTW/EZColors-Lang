@@ -49,6 +49,8 @@ COLOR_WHITE: '纯洁白'
 COLOR_RAINBOW: '光污染！'
 COLOR_RESET: '重置'
 
+COLOR_CHAT_EXAMPLE: "这是聊天样子的一个例子！"
+
 COLOR_RESET_NO_PERM: '%prefix% &c你不能重置你的颜色.'
 
 COLOR_RAINBOW_SELECT_LEFT: '&7左键以开始你的光污染！'
