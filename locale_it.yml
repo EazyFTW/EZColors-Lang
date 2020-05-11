@@ -49,6 +49,8 @@ COLOR_WHITE: 'Bianco'
 COLOR_RAINBOW: 'Arcobaleno'
 COLOR_RESET: 'Reset'
 
+COLOR_CHAT_EXAMPLE: "Questo è un esempio di come sarebbe la chat!"
+
 COLOR_RESET_NO_PERM: '%prefix% &cNon puoi resettare il tuo colore.'
 
 COLOR_RAINBOW_SELECT_LEFT: '&7Click Sinistro per impostare il tuo colore della Chat su Arcobaleno!'
