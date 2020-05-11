@@ -49,6 +49,8 @@ COLOR_WHITE: 'Blanco'
 COLOR_RAINBOW: 'Arco iris'
 COLOR_RESET: 'Restablecer'
 
+COLOR_CHAT_EXAMPLE: "¡Este es un ejemplo de cómo sería el chat!"
+
 COLOR_RESET_NO_PERM: '%prefix% &cTu no puedes restablecer tu color.'
 
 COLOR_RAINBOW_SELECT_LEFT: '&7Clic izquierdo para establecer tu color de chat a arco iris!'
