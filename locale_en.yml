@@ -27,6 +27,8 @@ GUI_CUSTOM_COLOR_LORE: 'Click to remove this color from the custom color!'
 GUI_CUSTOM_COLOR_EXAMPLE: 'This is how the custom color will look in chat.'
 RESET_CUSTOM_COLORS_LIST: '&7Click to reset the custom color.'
 GUI_FINISH_CUSTOM_COLOR: '%prefix% &7Successfully created your Custom Chat Color! Type in chat to see it!'
+GUI_COLOR_BACK: 'Back'
+GUI_COLOR_BACK_LORE: 'Click to go back.'
 
 #COLORS
 COLOR: 'Color'
@@ -48,8 +50,6 @@ COLOR_AQUA: 'Aqua'
 COLOR_WHITE: 'White'
 COLOR_RAINBOW: 'Rainbow'
 COLOR_RESET: 'Reset'
-
-COLOR_CHAT_EXAMPLE: "This is an example of what chat would look like!"
 
 COLOR_RESET_NO_PERM: '%prefix% &cYou cannot reset your color.'
 
