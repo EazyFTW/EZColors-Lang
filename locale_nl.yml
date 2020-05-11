@@ -49,6 +49,8 @@ COLOR_WHITE: 'Wit'
 COLOR_RAINBOW: 'Regenboog'
 COLOR_RESET: 'Reset'
 
+COLOR_CHAT_EXAMPLE: "Dit is een voorbeeld van hoe chat eruit zou zien!"
+
 COLOR_RESET_NO_PERM: '%prefix% &cJe kan niet de kleur reseten.'
 
 COLOR_RAINBOW_SELECT_LEFT: '&7Klik op de linker muis knop om de chat in regenboog te krijgen!'
