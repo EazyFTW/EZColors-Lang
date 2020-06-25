@@ -56,6 +56,12 @@ COLOR_RESET_NO_PERM: '%prefix% &c你不能重置你的颜色.'
 COLOR_RAINBOW_SELECT_LEFT: '&7左键以开始你的光污染！'
 COLOR_RAINBOW_SELECT_RIGHT: '&7右键以设置为光污染 二代目！'
 
+COLOR_HEX_SELECT_TITLE: '自定义十六进制值（1.16+）'
+COLOR_HEX_SELECT_LORE: '&7单击以将您的颜色设置为十六进制值！'
+COLOR_HEX_CUSTOM: '自定义十六进制颜色'
+COLOR_HEX_CUSTOM_VALUE: '十六进制值'
+COLOR_HEX_CUSTOM_INCORRECT: '十六进制不正确'
+
 NO_COLOR_SET: '&c你并没有设置颜色'
 COLOR_SELECTED: '%prefix% &7成功选择颜色 {Color} &7'
 COLOR_SELECTED_DEFAULT_SUCCESSFUL: '%prefix% &7成功重置颜色'
@@ -68,3 +74,4 @@ GUI_LANGUAGE_LANGUAGE_DISABLED_DESC: '选择语言 {Language} 作为插件语言
 GUI_LANGUAGE_LANGUAGE_REFRESH_TITLE: '刷新语言'
 GUI_LANGUAGE_LANGUAGE_REFRESH_DESC: '刷新全部语言.||这也会寻找新的语言.'
 GUI_LANGUAGE_LANGUAGE_REFRESH_MSG: '%prefix% &a刷新成功！'
+GUI_LANGUAGE_LANGUAGE_NOT_FINISHED_MSG: '%prefix% &c语言未完成，因此无法加载！'
