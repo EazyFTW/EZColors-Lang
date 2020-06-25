@@ -56,6 +56,12 @@ COLOR_RESET_NO_PERM: '%prefix% &cNon puoi resettare il tuo colore.'
 COLOR_RAINBOW_SELECT_LEFT: '&7Click Sinistro per impostare il tuo colore della Chat su Arcobaleno!'
 COLOR_RAINBOW_SELECT_RIGHT: '&7Click Sinistro per impostare il tuo colore della Chat su Arcobaleno 2!'
 
+COLOR_HEX_SELECT_TITLE: 'Valore esadecimale personalizzato (1.16+)'
+COLOR_HEX_SELECT_LORE: '&7Fai clic per impostare il colore su un valore esadecimale!'
+COLOR_HEX_CUSTOM: 'Colore Hex Personalizzato'
+COLOR_HEX_CUSTOM_VALUE: 'Valore Hex'
+COLOR_HEX_CUSTOM_INCORRECT: 'Hex Errato'
+
 NO_COLOR_SET: '&cNessun set di colori'
 COLOR_SELECTED: '%prefix% &7Selezionato con successo il Colore {Color}!'
 COLOR_SELECTED_DEFAULT_SUCCESSFUL: '%prefix% &7Ripristinato il Colore della chat allo stato iniziale.'
@@ -68,3 +74,4 @@ GUI_LANGUAGE_LANGUAGE_DISABLED_DESC: 'Clicca per selezionare il linguaggio {Lang
 GUI_LANGUAGE_LANGUAGE_REFRESH_TITLE: 'Ricarica Linguaggi'
 GUI_LANGUAGE_LANGUAGE_REFRESH_DESC: 'Clicca per ricaricare tutti i linguaggi.||Questo controllerà se ci sono nuovi linguaggi.'
 GUI_LANGUAGE_LANGUAGE_REFRESH_MSG: '%prefix% &aRicaricati tutti i linguaggi.'
+GUI_LANGUAGE_LANGUAGE_NOT_FINISHED_MSG: '%prefix% &cLa lingua non è finita, quindi non può essere caricata!'
