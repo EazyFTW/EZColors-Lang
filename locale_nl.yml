@@ -56,6 +56,12 @@ COLOR_RESET_NO_PERM: '%prefix% &cJe kan niet de kleur reseten.'
 COLOR_RAINBOW_SELECT_LEFT: '&7Klik op de linker muis knop om de chat in regenboog te krijgen!'
 COLOR_RAINBOW_SELECT_RIGHT: '&7Klik op de rechter muis knop om de chat in regenboog2 te krijgen!'
 
+COLOR_HEX_SELECT_TITLE: 'Aangepaste hex-waarde (1.16+)'
+COLOR_HEX_SELECT_LORE: '&7Klik om uw kleur in te stellen op een hex waarde!'
+COLOR_HEX_CUSTOM: 'Aangepaste Hex Kleur'
+COLOR_HEX_CUSTOM_VALUE: 'Hex-Waarde'
+COLOR_HEX_CUSTOM_INCORRECT: 'Onjuiste Hex'
+
 NO_COLOR_SET: '&cGeen kleur ingesteld'
 COLOR_SELECTED: '%prefix% &7Je hebt succesvol de &7Kleur {Color} geselecteerd!'
 COLOR_SELECTED_DEFAULT_SUCCESSFUL: '%prefix% &7Je hebt de kleur terug gezet naar standaard.'
@@ -68,3 +74,4 @@ GUI_LANGUAGE_LANGUAGE_DISABLED_DESC: 'Klik om deze vertaling {Language} intestel
 GUI_LANGUAGE_LANGUAGE_REFRESH_TITLE: 'Ververs de vertaling'
 GUI_LANGUAGE_LANGUAGE_REFRESH_DESC: 'Klik om alle vertaling te verversen.||Hij zoekt ook naar nieuwe vertalingen.'
 GUI_LANGUAGE_LANGUAGE_REFRESH_MSG: '%prefix% &aVertaling ververst.'
+GUI_LANGUAGE_LANGUAGE_NOT_FINISHED_MSG: '%prefix% &cDe taal is niet af en kan daarom niet worden geladen!'
