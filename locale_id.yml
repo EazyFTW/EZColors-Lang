@@ -56,6 +56,12 @@ COLOR_RESET_NO_PERM: '%prefix% &cKamu tidak bisa me-reset warnamu.'
 COLOR_RAINBOW_SELECT_LEFT: '&7Klik Kiri untuk mengubah Warna Chat menjadi Pelangi !'
 COLOR_RAINBOW_SELECT_RIGHT: '&7Klik Kanan untuk mengubah Warna Chat menjadi Pelangi 2!'
 
+COLOR_HEX_SELECT_TITLE: 'Nilai Hex Khusus (1.16+)'
+COLOR_HEX_SELECT_LORE: '&7Klik untuk mengatur warna Anda ke nilai hex!'
+COLOR_HEX_CUSTOM: 'Warna Hex Khusus'
+COLOR_HEX_CUSTOM_VALUE: 'Nilai Hex'
+COLOR_HEX_CUSTOM_INCORRECT: 'Hex Salah'
+
 NO_COLOR_SET: '&cTidak ada warna terpilih'
 COLOR_SELECTED: '%prefix% &7Berhasil memilih warna {Color}&7!'
 COLOR_SELECTED_DEFAULT_SUCCESSFUL: '%prefix% &7Berhasil mengembalikan warna menjadi semula.'
@@ -68,3 +74,4 @@ GUI_LANGUAGE_LANGUAGE_DISABLED_DESC: 'Klik untuk memilih {Language} sebagai baha
 GUI_LANGUAGE_LANGUAGE_REFRESH_TITLE: 'Refresh Bahasa'
 GUI_LANGUAGE_LANGUAGE_REFRESH_DESC: 'Klik untuk me-refresh semua bahasa.||Ini juga akan efektif untuk bahasa baru.'
 GUI_LANGUAGE_LANGUAGE_REFRESH_MSG: '%prefix% &aBahasa ter-Refresh.'
+GUI_LANGUAGE_LANGUAGE_NOT_FINISHED_MSG: '%prefix% &cBahasa belum selesai, karena itu tidak dapat dimuat!'
