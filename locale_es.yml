@@ -56,6 +56,12 @@ COLOR_RESET_NO_PERM: '%prefix% &cTu no puedes restablecer tu color.'
 COLOR_RAINBOW_SELECT_LEFT: '&7Clic izquierdo para establecer tu color de chat a arco iris!'
 COLOR_RAINBOW_SELECT_RIGHT: '&7Clic derecho para establecer tu color de chat a arco iris 2!'
 
+COLOR_HEX_SELECT_TITLE: 'Valor Hex Personalizado (1.16+)'
+COLOR_HEX_SELECT_LORE: '&7Haga clic para establecer su color en un valor hex!'
+COLOR_HEX_CUSTOM: 'Color Hex Personalizador'
+COLOR_HEX_CUSTOM_VALUE: 'Valor Hex'
+COLOR_HEX_CUSTOM_INCORRECT: 'Hex Incorrecto'
+
 NO_COLOR_SET: '&cSin conjunto de colores'
 COLOR_SELECTED: '%prefix% Se selecto el {Color} &7Color!'
 COLOR_SELECTED_DEFAULT_SUCCESSFUL: '%prefix% Se a establecido tu color a predeterminado.'
@@ -68,3 +74,4 @@ GUI_LANGUAGE_LANGUAGE_DISABLED_DESC: 'Haga clic para selectar {Language} como la
 GUI_LANGUAGE_LANGUAGE_REFRESH_TITLE: 'Actualizar Idiomas'
 GUI_LANGUAGE_LANGUAGE_REFRESH_DESC: 'Esto va a actualizar todos las idiomas.||Esto tambien va a buscar para nuevas idiomas.'
 GUI_LANGUAGE_LANGUAGE_REFRESH_MSG: '%prefix% &aLas idiomas se actualizaron.'
+GUI_LANGUAGE_LANGUAGE_NOT_FINISHED_MSG: '%prefix% &cEl idioma no está terminado, por lo tanto, no se puede cargar.'
