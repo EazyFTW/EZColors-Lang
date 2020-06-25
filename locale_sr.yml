@@ -56,6 +56,12 @@ COLOR_RESET_NO_PERM: '%prefix% &cTi ne mozes da resetujes svoju boju.'
 COLOR_RAINBOW_SELECT_LEFT: '&7Levi Klik da podesis svoju Boju u Dugine boje!'
 COLOR_RAINBOW_SELECT_RIGHT: '&7Desni Klik da podesis svoju Boju u Dugine boje 2!'
 
+COLOR_HEX_SELECT_TITLE: 'Прилагођена хекс вредност (1.16+)'
+COLOR_HEX_SELECT_LORE: '&7Кликните да бисте боју поставили на хекс вредност!'
+COLOR_HEX_CUSTOM: 'Прилагођена шестерокутна боја'
+COLOR_HEX_CUSTOM_VALUE: 'Шеснаеста вредност'
+COLOR_HEX_CUSTOM_INCORRECT: 'Нетачан Хек'
+
 NO_COLOR_SET: '&cNijedna boja nije podešena'
 COLOR_SELECTED: '%prefix% &7Uspesno selektovana {Color} &7Boja!'
 COLOR_SELECTED_DEFAULT_SUCCESSFUL: '%prefix% &7Uspesno vraćena boja u podrazumevanu.'
@@ -68,3 +74,4 @@ GUI_LANGUAGE_LANGUAGE_DISABLED_DESC: 'Klikni da izaberes {Language} kao jezis pl
 GUI_LANGUAGE_LANGUAGE_REFRESH_TITLE: 'Osveži jezike'
 GUI_LANGUAGE_LANGUAGE_REFRESH_DESC: 'Klikni da osvežis sve jezike.||Ovo će potražiti i nove jezike.'
 GUI_LANGUAGE_LANGUAGE_REFRESH_MSG: '%prefix% &aJezici osveženi.'
+GUI_LANGUAGE_LANGUAGE_NOT_FINISHED_MSG: '%prefix% &cезик није готов, па се не може учитати!'
