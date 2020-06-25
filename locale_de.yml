@@ -56,6 +56,12 @@ COLOR_RESET_NO_PERM: '%prefix% &cDu kannst deine Farbe nicht zurücksetzen.'
 COLOR_RAINBOW_SELECT_LEFT: '&7Linksklick um deine Chatfarbe auf Regenbogen zu setzen!'
 COLOR_RAINBOW_SELECT_RIGHT: '&7Rechtsklick um deine Chatfarbe auf Regenbogen 2 zu setzen!'
 
+COLOR_HEX_SELECT_TITLE: 'Benutzerdefinierter Hex-Wert (1.16+)'
+COLOR_HEX_SELECT_LORE: '&7Klicken Sie, um Ihre Farbe auf einen Hex-Wert einzustellen!'
+COLOR_HEX_CUSTOM: 'Aangepaste Hex kleur'
+COLOR_HEX_CUSTOM_VALUE: 'Hex-waarde'
+COLOR_HEX_CUSTOM_INCORRECT: 'Onjuiste Hex'
+
 NO_COLOR_SET: '&cKein Farbsatz'
 COLOR_SELECTED: '%prefix% &7Die Farbe {Color} &7wurde erfolgreich gewählt!'
 COLOR_SELECTED_DEFAULT_SUCCESSFUL: '%prefix% &7Die Farbe wurde erfolgreich auf Standard zurück gesetzt.'
@@ -68,3 +74,4 @@ GUI_LANGUAGE_LANGUAGE_DISABLED_DESC: 'Klicke um {Language} als Pluginsprache aus
 GUI_LANGUAGE_LANGUAGE_REFRESH_TITLE: 'Sprachen neuladen'
 GUI_LANGUAGE_LANGUAGE_REFRESH_DESC: 'Klicke um alle Sprachen neu zu laden.||Dies wird außerdem nach neuen Sprachen suchen.'
 GUI_LANGUAGE_LANGUAGE_REFRESH_MSG: '%prefix% &aSprachen neu geladen.'
+GUI_LANGUAGE_LANGUAGE_NOT_FINISHED_MSG: '%prefix% &cDie Sprache ist noch nicht fertig, kann also nicht geladen werden!'
